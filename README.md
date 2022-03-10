@@ -7,7 +7,7 @@ link: https://alexaltrex.github.io/barber-shop
 </div> 
 
 # Description
-React app works with cripto, with adaptive responsive design and scroll animation
+Web shop, react app with adaptive responsive design and scroll animation
 
 # Development
 * app based on react, create-react-app
