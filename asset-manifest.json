@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/barber-shop/static/css/main.a8544389.css",
-    "main.js": "/barber-shop/static/js/main.91c80c31.js",
+    "main.css": "/barber-shop/static/css/main.684caa08.css",
+    "main.js": "/barber-shop/static/js/main.8342d6b4.js",
     "static/js/787.2d9e0d35.chunk.js": "/barber-shop/static/js/787.2d9e0d35.chunk.js",
     "static/media/about-us-bg.png": "/barber-shop/static/media/about-us-bg.62b73ebc6ad6dde21348.png",
     "static/media/header-bg.png": "/barber-shop/static/media/header-bg.c170419f6853a972197d.png",
@@ -34,12 +34,12 @@
     "static/media/arrow-mb.svg": "/barber-shop/static/media/arrow-mb.ff58d41dfc4c56a90604.svg",
     "static/media/arrow.svg": "/barber-shop/static/media/arrow.c83cae9fd3742af8ef0e.svg",
     "static/media/mobile-burger.svg": "/barber-shop/static/media/mobile-burger.eceb760e8d88c01b6e6a5567401f0bae.svg",
-    "main.a8544389.css.map": "/barber-shop/static/css/main.a8544389.css.map",
-    "main.91c80c31.js.map": "/barber-shop/static/js/main.91c80c31.js.map",
+    "main.684caa08.css.map": "/barber-shop/static/css/main.684caa08.css.map",
+    "main.8342d6b4.js.map": "/barber-shop/static/js/main.8342d6b4.js.map",
     "787.2d9e0d35.chunk.js.map": "/barber-shop/static/js/787.2d9e0d35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8544389.css",
-    "static/js/main.91c80c31.js"
+    "static/css/main.684caa08.css",
+    "static/js/main.8342d6b4.js"
   ]
 }
