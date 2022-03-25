@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/barber-shop/static/css/main.6fd23ec3.css",
-    "main.js": "/barber-shop/static/js/main.44cfc286.js",
+    "main.css": "/barber-shop/static/css/main.a8544389.css",
+    "main.js": "/barber-shop/static/js/main.af011c30.js",
     "static/js/787.2d9e0d35.chunk.js": "/barber-shop/static/js/787.2d9e0d35.chunk.js",
     "static/media/about-us-bg.png": "/barber-shop/static/media/about-us-bg.62b73ebc6ad6dde21348.png",
     "static/media/header-bg.png": "/barber-shop/static/media/header-bg.c170419f6853a972197d.png",
@@ -26,23 +26,20 @@
     "static/media/product6.png": "/barber-shop/static/media/product6.d9e2f6b03779350613ed.png",
     "static/media/product3.png": "/barber-shop/static/media/product3.518d6b0404fc24bf8e47.png",
     "static/media/line.svg": "/barber-shop/static/media/line.f161e980209d3dbdcaf83aa0ea5c9f55.svg",
-    "static/media/instagram.svg": "/barber-shop/static/media/instagram.f172afaa3d63fdc85fdb27aa8f288578.svg",
     "static/media/slick.svg": "/barber-shop/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/barber-shop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/barber-shop/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/barber-shop/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/arrow-top.svg": "/barber-shop/static/media/arrow-top.2c634b3c3de5feed411235377ea182b1.svg",
     "index.html": "/barber-shop/index.html",
-    "static/media/facebook.svg": "/barber-shop/static/media/facebook.25a9ee11b6cb07d5852256788a3fb6a4.svg",
     "static/media/arrow-mb.svg": "/barber-shop/static/media/arrow-mb.ff58d41dfc4c56a90604.svg",
     "static/media/arrow.svg": "/barber-shop/static/media/arrow.c83cae9fd3742af8ef0e.svg",
     "static/media/mobile-burger.svg": "/barber-shop/static/media/mobile-burger.eceb760e8d88c01b6e6a5567401f0bae.svg",
-    "main.6fd23ec3.css.map": "/barber-shop/static/css/main.6fd23ec3.css.map",
-    "main.44cfc286.js.map": "/barber-shop/static/js/main.44cfc286.js.map",
+    "main.a8544389.css.map": "/barber-shop/static/css/main.a8544389.css.map",
+    "main.af011c30.js.map": "/barber-shop/static/js/main.af011c30.js.map",
     "787.2d9e0d35.chunk.js.map": "/barber-shop/static/js/787.2d9e0d35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fd23ec3.css",
-    "static/js/main.44cfc286.js"
+    "static/css/main.a8544389.css",
+    "static/js/main.af011c30.js"
   ]
 }
